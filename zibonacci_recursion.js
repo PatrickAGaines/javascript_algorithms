@@ -27,3 +27,14 @@ function Zibonacci(num){
   };
   
   Zibonacci(11);
+
+
+// Zibonacci(0) to return 1
+// Zibonacci(1) to return 1
+// Zibonacci(2) to return 2
+// Zibonacci(3) to return 3
+// Zibonacci(4) to return 6
+// Zibonacci(5) to return 4
+// Zibonacci(6) to return 10
+// Zibonacci(10) to return 15
+// Zibonacci(11) to return 11
